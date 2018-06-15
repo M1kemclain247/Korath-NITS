@@ -1,0 +1,6 @@
+host: 'localhost'
+port: 3306
+username: 'Client'
+password: 'Aiffcd12345'
+databases:
+ - 'nits_config'
